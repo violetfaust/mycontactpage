@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("https://i.imgur.com/wef3YMc.jpg"); /* This is my background image on the web page. */
+  background-image: url("marble-bg.jpg"); /* This is my background image on the web page. */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
